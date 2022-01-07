@@ -19,6 +19,10 @@ body {
   width: 50%;
 }
 
+.search {
+  width: 100% !important;
+}
+
 .search-params form {
   border-radius: 6px;
   background: #faeff0;
